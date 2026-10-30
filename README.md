@@ -1,5 +1,5 @@
 # GanttManager-Project
-Gantt Manager is a project for the Software Development course at the university I study in collaboration with ItzUbixD.
+Gantt Manager is a project for the Software Development course at the university I study in collaboration with Athanasios Tonios.
 
 
 
