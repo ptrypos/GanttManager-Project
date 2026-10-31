@@ -109,5 +109,12 @@ On Windows, use `;` instead of `:` as the classpath separator.
 3. Use the **Report** menu to save the plan as `.txt`, `.md` or `.html`.
 
 ## Authors
-- **Panagiotis Trypos** — [GitHub](https://github.com/ptrypos)
-- **Athanasios Tonios** — [GitHub](https://github.com/athanasios-tonios)
+
+**Panagiotis Trypos**
+- [Website / Portfolio](https://ptrypos.me)
+- [GitHub](https://github.com/ptrypos)
+- [LinkedIn](https://www.linkedin.com/in/%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82-%CF%84%CF%81%CF%8D%CF%80%CE%BF%CF%82-983abb242)
+
+
+**Athanasios Tonios**
+- [GitHub](https://github.com/athanasios-tonios)
